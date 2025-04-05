@@ -1,3 +1,5 @@
+Demo Link - https://dhairya-lazarev-inspire.vercel.app/
+
 Lazarv Clone - A Modern Website Clone
 Lazarv Clone is a replica of the Lazarv website, built with modern web technologies to replicate the user experience and design. The website features smooth animations, a responsive layout, and interactive elements, all implemented using HTML, Tailwind CSS, JavaScript, LocomotiveJS, and GSAP.
 
